@@ -1,0 +1,1 @@
+# vscode-spa-template
